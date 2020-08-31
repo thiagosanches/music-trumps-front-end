@@ -1,7 +1,10 @@
 const baseUrl = process.env.REACT_APP_API_BASE_URL;
 
 const anonymous = () => {
-  return {baseURL: baseUrl};
+  return {
+    timeout: 1500,
+    baseURL: baseUrl,
+  };
 };
 
 const authenticated = () => {
@@ -9,7 +12,11 @@ const authenticated = () => {
   const header = {
     Authorization: `bearer ${token}`,
   };
-  return {headers: header};
+  return {
+    headers: header,
+    timeout: 1500,
+    baseURL: baseUrl,
+  };
 };
 
 export {anonymous, authenticated};
