@@ -1,5 +1,5 @@
-import React, {useState, useEffect} from 'react';
-import {Container, Avatar, Button, TextField, FormControlLabel, Checkbox, Link, Grid, Typography} from '@material-ui/core';
+import React, {useState} from 'react';
+import {Container, Avatar, Button, TextField, FormControlLabel, Checkbox, Grid, Typography} from '@material-ui/core';
 import LockOutlinedIcon from '@material-ui/icons/LockOutlined';
 import {makeStyles} from '@material-ui/core/styles';
 import {AccountApi} from '../Services/Api';
