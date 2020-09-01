@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/game/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/game/static/js/main.5104710d.chunk.js",
-    "main.js.map": "/game/static/js/main.5104710d.chunk.js.map",
-    "runtime-main.js": "/game/static/js/runtime-main.46dfb6f5.js",
-    "runtime-main.js.map": "/game/static/js/runtime-main.46dfb6f5.js.map",
-    "static/js/2.634aabf1.chunk.js": "/game/static/js/2.634aabf1.chunk.js",
-    "static/js/2.634aabf1.chunk.js.map": "/game/static/js/2.634aabf1.chunk.js.map",
-    "index.html": "/game/index.html",
-    "precache-manifest.b0394d9750fdf59bb1d526b708a38faa.js": "/game/precache-manifest.b0394d9750fdf59bb1d526b708a38faa.js",
-    "service-worker.js": "/game/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/game/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.634aabf1.chunk.js.LICENSE.txt": "/game/static/js/2.634aabf1.chunk.js.LICENSE.txt"
+    "main.css": "/music-trumps-front-end/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/music-trumps-front-end/static/js/main.15d2776b.chunk.js",
+    "main.js.map": "/music-trumps-front-end/static/js/main.15d2776b.chunk.js.map",
+    "runtime-main.js": "/music-trumps-front-end/static/js/runtime-main.69172d3d.js",
+    "runtime-main.js.map": "/music-trumps-front-end/static/js/runtime-main.69172d3d.js.map",
+    "static/js/2.634aabf1.chunk.js": "/music-trumps-front-end/static/js/2.634aabf1.chunk.js",
+    "static/js/2.634aabf1.chunk.js.map": "/music-trumps-front-end/static/js/2.634aabf1.chunk.js.map",
+    "index.html": "/music-trumps-front-end/index.html",
+    "precache-manifest.d1e9350efc956df71c905674749b3e8e.js": "/music-trumps-front-end/precache-manifest.d1e9350efc956df71c905674749b3e8e.js",
+    "service-worker.js": "/music-trumps-front-end/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/music-trumps-front-end/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.634aabf1.chunk.js.LICENSE.txt": "/music-trumps-front-end/static/js/2.634aabf1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.46dfb6f5.js",
+    "static/js/runtime-main.69172d3d.js",
     "static/js/2.634aabf1.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.5104710d.chunk.js"
+    "static/js/main.15d2776b.chunk.js"
   ]
 }
