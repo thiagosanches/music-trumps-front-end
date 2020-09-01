@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d0b2631981986be3de42ec4556d24cb4",
+    "revision": "adb8750ab30d40f81a64030844d52f03",
     "url": "/music-trumps-front-end/index.html"
   },
   {
