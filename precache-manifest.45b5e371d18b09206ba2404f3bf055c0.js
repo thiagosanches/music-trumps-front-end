@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0bc18c7c401484a37775398e927b2992",
+    "revision": "d0b2631981986be3de42ec4556d24cb4",
     "url": "/music-trumps-front-end/index.html"
   },
   {
-    "revision": "35371ba1640834a9ed0e",
+    "revision": "65a60bfe1dc90ca30bc2",
     "url": "/music-trumps-front-end/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "974bc8925bb70c008653",
-    "url": "/music-trumps-front-end/static/js/2.ba4dfc10.chunk.js"
+    "revision": "a693e51e224e9e79468a",
+    "url": "/music-trumps-front-end/static/js/2.1dd7c581.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/music-trumps-front-end/static/js/2.ba4dfc10.chunk.js.LICENSE.txt"
+    "url": "/music-trumps-front-end/static/js/2.1dd7c581.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "35371ba1640834a9ed0e",
-    "url": "/music-trumps-front-end/static/js/main.cabb588d.chunk.js"
+    "revision": "65a60bfe1dc90ca30bc2",
+    "url": "/music-trumps-front-end/static/js/main.e2621486.chunk.js"
   },
   {
     "revision": "08bc7d388514e9a759e7",

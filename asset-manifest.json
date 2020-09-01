@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/music-trumps-front-end/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/music-trumps-front-end/static/js/main.cabb588d.chunk.js",
-    "main.js.map": "/music-trumps-front-end/static/js/main.cabb588d.chunk.js.map",
+    "main.js": "/music-trumps-front-end/static/js/main.e2621486.chunk.js",
+    "main.js.map": "/music-trumps-front-end/static/js/main.e2621486.chunk.js.map",
     "runtime-main.js": "/music-trumps-front-end/static/js/runtime-main.69172d3d.js",
     "runtime-main.js.map": "/music-trumps-front-end/static/js/runtime-main.69172d3d.js.map",
-    "static/js/2.ba4dfc10.chunk.js": "/music-trumps-front-end/static/js/2.ba4dfc10.chunk.js",
-    "static/js/2.ba4dfc10.chunk.js.map": "/music-trumps-front-end/static/js/2.ba4dfc10.chunk.js.map",
+    "static/js/2.1dd7c581.chunk.js": "/music-trumps-front-end/static/js/2.1dd7c581.chunk.js",
+    "static/js/2.1dd7c581.chunk.js.map": "/music-trumps-front-end/static/js/2.1dd7c581.chunk.js.map",
     "index.html": "/music-trumps-front-end/index.html",
-    "precache-manifest.e68762cdbf4c64c6b7ff5afc1e94cb42.js": "/music-trumps-front-end/precache-manifest.e68762cdbf4c64c6b7ff5afc1e94cb42.js",
+    "precache-manifest.45b5e371d18b09206ba2404f3bf055c0.js": "/music-trumps-front-end/precache-manifest.45b5e371d18b09206ba2404f3bf055c0.js",
     "service-worker.js": "/music-trumps-front-end/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/music-trumps-front-end/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.ba4dfc10.chunk.js.LICENSE.txt": "/music-trumps-front-end/static/js/2.ba4dfc10.chunk.js.LICENSE.txt",
+    "static/js/2.1dd7c581.chunk.js.LICENSE.txt": "/music-trumps-front-end/static/js/2.1dd7c581.chunk.js.LICENSE.txt",
     "static/media/radio.png": "/music-trumps-front-end/static/media/radio.cb8552a2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.69172d3d.js",
-    "static/js/2.ba4dfc10.chunk.js",
+    "static/js/2.1dd7c581.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.cabb588d.chunk.js"
+    "static/js/main.e2621486.chunk.js"
   ]
 }
