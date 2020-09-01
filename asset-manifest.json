@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/music-trumps-front-end/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/music-trumps-front-end/static/js/main.15d2776b.chunk.js",
-    "main.js.map": "/music-trumps-front-end/static/js/main.15d2776b.chunk.js.map",
+    "main.js": "/music-trumps-front-end/static/js/main.f1e7eba2.chunk.js",
+    "main.js.map": "/music-trumps-front-end/static/js/main.f1e7eba2.chunk.js.map",
     "runtime-main.js": "/music-trumps-front-end/static/js/runtime-main.69172d3d.js",
     "runtime-main.js.map": "/music-trumps-front-end/static/js/runtime-main.69172d3d.js.map",
-    "static/js/2.634aabf1.chunk.js": "/music-trumps-front-end/static/js/2.634aabf1.chunk.js",
-    "static/js/2.634aabf1.chunk.js.map": "/music-trumps-front-end/static/js/2.634aabf1.chunk.js.map",
+    "static/js/2.ba4dfc10.chunk.js": "/music-trumps-front-end/static/js/2.ba4dfc10.chunk.js",
+    "static/js/2.ba4dfc10.chunk.js.map": "/music-trumps-front-end/static/js/2.ba4dfc10.chunk.js.map",
     "index.html": "/music-trumps-front-end/index.html",
-    "precache-manifest.d1e9350efc956df71c905674749b3e8e.js": "/music-trumps-front-end/precache-manifest.d1e9350efc956df71c905674749b3e8e.js",
+    "precache-manifest.535ea1ecaab4a54cac93eaf101df6aee.js": "/music-trumps-front-end/precache-manifest.535ea1ecaab4a54cac93eaf101df6aee.js",
     "service-worker.js": "/music-trumps-front-end/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/music-trumps-front-end/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.634aabf1.chunk.js.LICENSE.txt": "/music-trumps-front-end/static/js/2.634aabf1.chunk.js.LICENSE.txt"
+    "static/js/2.ba4dfc10.chunk.js.LICENSE.txt": "/music-trumps-front-end/static/js/2.ba4dfc10.chunk.js.LICENSE.txt",
+    "static/media/radio.png": "/music-trumps-front-end/static/media/radio.cb8552a2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.69172d3d.js",
-    "static/js/2.634aabf1.chunk.js",
+    "static/js/2.ba4dfc10.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.15d2776b.chunk.js"
+    "static/js/main.f1e7eba2.chunk.js"
   ]
 }
