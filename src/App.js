@@ -1,5 +1,5 @@
 import React from 'react';
-import {BrowserRouter as Router} from 'react-router-dom';
+
 import {ThemeProvider} from '@material-ui/core/styles';
 import {CssBaseline} from '@material-ui/core';
 import {AppRoutes} from './Routes';
@@ -9,10 +9,8 @@ function App() {
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline />
-      <Router>
-        <TopMenuView />
-        <AppRoutes />
-      </Router>
+      <TopMenuView />
+      <AppRoutes />
     </ThemeProvider>
   );
 }
