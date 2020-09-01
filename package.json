@@ -1,6 +1,6 @@
 {
   "name": "music-trumps-web",
-  "homepage": "https://musictrumps.github.io/music-trumps-front-end/",
+  "homepage": "https://musictrumps.github.io/music-trumps-front-end",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -22,7 +22,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint": "eslint .",
-    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
