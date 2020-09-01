@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/music-trumps-front-end/precache-manifest.7c0054a64bb093de6dd9355fa5498d86.js"
+  "/music-trumps-front-end/precache-manifest.e68762cdbf4c64c6b7ff5afc1e94cb42.js"
 );
 
 self.addEventListener('message', (event) => {
